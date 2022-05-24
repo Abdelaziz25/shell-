@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1647837835 source:/home/abdelaziz/Documents/testing/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<fcntl.h>
+	<signal.h>
+	<sys/wait.h>
+	<sys/resource.h>
+	<unistd.h>
+	<sys/syscall.h>
+	<errno.h>
+
